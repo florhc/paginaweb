@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#contenedor{
+    width: 100%;
+    margin: auto;
+    border: 2px solid black;
+}
+header{
+    background: rgb(200, 129, 129);
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    text-decoration: line;
+    line-height: normal;
+    color: black;
+}
+nav{
+    background: lightskyblue;
+    height: 100px;
+}
+nav ul li{
+    float: left;
+    list-style: none;
+    margin: 10px;
+    line-height: 30px;
+}
+.clearfix{
+    clear:both;
+}
+#seccion{
+    float: left;
+    width: 100%;
+    min-height: 500px;
+    background: rgb(169, 34, 34);
+}
+footer{
+    background: rgb(175, 13, 13);
+    color: aqua;
+    text-align: center;
+    height: 150px;
+    line-height: 200%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.centrado{
+    text-align: center;
+}
+header{
+    background: rgb(220, 217, 217);
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    text-decoration: line;
+    line-height: normal;
+    color: black;
+}
+#contenedor{
+    width:50%;
+    margin: auto;
+    border: 1px solid black;
+    width: 100%;
+}
+#seccion{
+    float: left;
+    width: 100%;
+    min-height: 100px;
+    background: rgb(180, 167, 167);
+}
+aside{
+    float: left;
+    margin: 1px;
+    border: 1px;
+    width: 250px;
+    background: rgb(93, 59, 76);
+    min-height: 100px;
+}
+aside{
+    float: left;
+    margin: 1px;
+    border: 1px;
+    width: 250px;
+    background: rgb(93, 59, 76);
+    min-height: 100px;
+}
+aside{
+    float: left;
+    margin: 1px;
+    border: 1px;
+    width: 270px;
+    background: rgb(93, 59, 76);
+    min-height: 100px;
+}
+aside{
+    float: left;
+    margin: 1px;
+    border: 1px;
+    width: 270px;
+    background: rgb(93, 59, 76);
+    min-height: 100px;
+}
+aside{
+    float: left;
+    margin: 1px;
+    border: 1px;
+    width: 250px;
+    background: rgb(93, 59, 76);
+    min-height: 100px;
+}
+.clearfix{
+    clear:both;
+}
+footer{
+    background: rgb(249, 247, 247);
+    color: black;
+    text-align: center;
+    height: 1px;
+    margin: auto;
+    line-height: 300%;
+}
